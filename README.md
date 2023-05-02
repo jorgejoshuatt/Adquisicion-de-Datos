@@ -1,4 +1,4 @@
-# Adquisicion-de-datos
+# Adquisicion de Datos
 
 Programas realizados en clase de Adquisición de datos en la Facultad de Estudios Superiores Aragón.
 
