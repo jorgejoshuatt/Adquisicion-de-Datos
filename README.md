@@ -4,8 +4,8 @@ Programas realizados en clase de Adquisición de datos en la Facultad de Estudio
 
 ## Construido con 🛠️
 
-* Google Colab
-* Python
+* [Google Colab](https://colab.research.google.com) 💻
+* [Python](https://www.python.org) 🐍
 
 ## Autores ✒️
 
